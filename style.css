@@ -172,8 +172,8 @@ footer {
 
 .skills {
     text-align: center;
-    /*padding-top: 5px;*/
-    /*padding-bottom: 5px;*/
+    display: block;
+    unicode-bidi: isolate;
     color: #1f0e11;
     width: 100%;
     padding: 4px 4px;
