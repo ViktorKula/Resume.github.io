@@ -23,6 +23,7 @@ body {
 
 header {
     font-family: 'Spectral', Helvetica, Times, sans-serif;
+    margin-bottom: 20px;
     background-color: white;
     text-align: start;
     padding: 20px;
